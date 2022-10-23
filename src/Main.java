@@ -18,5 +18,18 @@ public class Main {
 
         //Задача №2
         System.out.println("Задача №2");
+        byte a = 67;
+        short b = -159;
+        int c = 27897;
+        long d = 987678965549L;
+        float e = 27.12f;
+        double f = 2.786;
+        char g = 569;
+        boolean h = 15 > 18;
+        System.out.println("Задача №2 выполнена");
+
+        //Задача №3
+        System.out.println("Задача №3");
+
     }
 }
