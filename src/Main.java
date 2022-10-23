@@ -18,15 +18,15 @@ public class Main {
 
         //Задача №2
         System.out.println("Задача №2");
-        byte a = 67;
-        short b = -159;
-        int c = 27897;
-        long d = 987678965549L;
-        float e = 27.12f;
-        double f = 2.786;
-        char g = 569;
-        boolean h = 15 > 18;
-        System.out.println("Задача №2 выполнена без вывода в консоль");
+        byte byt_e = 67;
+        short shor_t = -159;
+        int in_t = 27897;
+        long lon_g = 987678965549L;
+        float floa_t = 27.12f;
+        double doubl_e = 2.786;
+        char cha_r = 569;
+        boolean boolea_n = false;
+        System.out.println(byt_e + "; "+ shor_t +"; "+ in_t +"; "+ lon_g +"; "+ floa_t + "; "+ doubl_e + "; " + cha_r + "; " + boolea_n);
 
         //Задача №3
         System.out.println("Задача №3");
